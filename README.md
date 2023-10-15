@@ -57,7 +57,7 @@
 <br>/ob clear 'player' - reset the player ob level and remove his island
 <br>/ob ver
   
-## Placeholders
+## Placeholders--
 
 * %OB_ver%
 * %OB_lvl% - The player's level number.
